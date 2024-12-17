@@ -1,0 +1,4 @@
+schema {
+    query: studentQueries
+    mutation: studentMutation
+}

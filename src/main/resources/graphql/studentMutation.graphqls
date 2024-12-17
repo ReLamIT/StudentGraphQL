@@ -1,0 +1,4 @@
+type studentMutation{
+    saveStudent(student:studentInput):Student
+
+}
